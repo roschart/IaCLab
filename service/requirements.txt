@@ -1,3 +1,4 @@
 fastapi==0.110.1
-uvicorn==0.29.0
 mypy==1.9.0
+pydantic==2.6.4
+uvicorn==0.29.0
