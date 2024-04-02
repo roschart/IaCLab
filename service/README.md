@@ -34,7 +34,11 @@ pip install -r requirements.txt
 
 ### Running the Application
 
-TBD
+```bash
+uvicorn main:app --reload
+```
+
+You can find the docs in <http://127.0.0.1:8000/docs>
 
 ## Contributing
 
